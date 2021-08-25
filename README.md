@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul Kumar, a Full Stack Developer 🚀 from India.
 -   currently pursing MCA at Lal Bahadur Shastri Institute of Management(IPU), Delhi
 -   have completed BCA from BIT Mesra,Ranchi
-- 🌱 I’m currently learning ReactJS
+- 🌱 currently learning Libraries & Frameworks of JavaScript
 - 📫 How to reach me: rk785164@gmail.com;
 
 <!---
